@@ -1,0 +1,24 @@
+
+        h1{
+          color:red;
+          background-color: black;
+          
+          
+        }
+        p {
+            color:blue;
+            
+            border: 1px solid black;
+        }
+        img
+        {
+            height:4000px;
+            width:5000px;
+        }
+        .test1{
+            color:brown
+        }
+        #sjfh{
+            color:purple
+        }
+    
